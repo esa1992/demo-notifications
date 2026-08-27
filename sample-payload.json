@@ -1,0 +1,20 @@
+[
+  {
+    "notificationType": "INCOMING_INTERBANK_TRANSFER",
+    "customerId": 9305,
+    "id": "111",
+    "noteRu": "Ваш счет пополнен на 552030.00 KGS",
+    "noteKg": "Сиздин эсебиңиз 552030.00 KGS толукталды",
+    "noteEn": "Your account has been credited with 552030.00 KGS",
+    "createdAt": "2026-08-17T11:37:00+06:00"
+  },
+  {
+    "notificationType": "INCOMING_INTERBANK_TRANSFER",
+    "customerId": 9160,
+    "id": "112",
+    "noteRu": "Ваш счет пополнен на 1450000.00 KGS",
+    "noteKg": "Сиздин эсебиңиз 1450000.00 KGS толукталды",
+    "noteEn": "Your account has been credited with 1450000.00 KGS",
+    "createdAt": "2026-08-17T11:37:01+06:00"
+  }
+]

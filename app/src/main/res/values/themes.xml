@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.DemoNotifications" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0D47A1</item>
+        <item name="android:navigationBarColor">#F5F7FA</item>
+        <item name="android:windowBackground">#F5F7FA</item>
+    </style>
+</resources>
